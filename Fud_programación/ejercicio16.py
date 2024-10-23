@@ -1,0 +1,5 @@
+palabra_1 = input("palabra/número 1:")
+palabra_2 = input("palabra/número 2:")
+list = (palabra_1 , palabra_2)
+lista = sorted(list)
+print(lista)
